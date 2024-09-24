@@ -15,3 +15,5 @@ Diferencias clave:
 Flexbox: Mejor para alineación y distribución en una sola dirección (fila/columna).
 Grid: Ideal para maquetar estructuras más complejas y bidimensionales.
 Ambos se pueden combinar para crear diseños más flexibles y adaptables.
+![image](https://github.com/user-attachments/assets/8bb4ab88-c823-4999-a587-e403c0059f1e)
+
